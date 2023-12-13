@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Mi-proyecto/static/css/main.f96f07a4.css",
+    "main.js": "/Mi-proyecto/static/js/main.c5fec7fe.js",
+    "static/js/787.0a6b1a04.chunk.js": "/Mi-proyecto/static/js/787.0a6b1a04.chunk.js",
+    "static/media/video5.mp4": "/Mi-proyecto/static/media/video5.20060e1c533ac59763a3.mp4",
+    "static/media/video2.mp4": "/Mi-proyecto/static/media/video2.d73dc14ddec3c69bcc42.mp4",
+    "static/media/video1.mp4": "/Mi-proyecto/static/media/video1.c312c14d79d2f303fa8e.mp4",
+    "static/media/video4.mp4": "/Mi-proyecto/static/media/video4.b205c25775a25617db48.mp4",
+    "static/media/video3.mp4": "/Mi-proyecto/static/media/video3.aae4012382e218805387.mp4",
+    "static/media/imagen1.jpg": "/Mi-proyecto/static/media/imagen1.fbb24a49033850e349a0.jpg",
+    "static/media/ENIAC.jpg": "/Mi-proyecto/static/media/ENIAC.c52e6f2578ea8053e801.jpg",
+    "static/media/ia1.jpg": "/Mi-proyecto/static/media/ia1.a3ba927c19ec3f87e2c4.jpg",
+    "static/media/IBM_1401.jpg": "/Mi-proyecto/static/media/IBM_1401.cd322ad91eaa7e7eadf3.jpg",
+    "static/media/y1.jpg": "/Mi-proyecto/static/media/y1.e9a0c8620eceb236db53.jpg",
+    "static/media/ia.jpg": "/Mi-proyecto/static/media/ia.cf5516bba573d8d8ac47.jpg",
+    "static/media/PRIMERA.jpg": "/Mi-proyecto/static/media/PRIMERA.74d7f48534bd81160ac0.jpg",
+    "static/media/P.jpg": "/Mi-proyecto/static/media/P.d98db13731758035f65e.jpg",
+    "static/media/SEGUNDA.jpg": "/Mi-proyecto/static/media/SEGUNDA.fb6f08a824086f25aa53.jpg",
+    "static/media/TERCERA.jpg": "/Mi-proyecto/static/media/TERCERA.91044cf95faeba1802ad.jpg",
+    "static/media/CUARTA.jpg": "/Mi-proyecto/static/media/CUARTA.1b335d9f8c4e5e26dbd0.jpg",
+    "static/media/UNIVAC.jpg": "/Mi-proyecto/static/media/UNIVAC.cd3859bf67a847e52ce0.jpg",
+    "static/media/ENIAC1.jpg": "/Mi-proyecto/static/media/ENIAC1.c012c38057b388f4ad04.jpg",
+    "static/media/UNIVAC1.jpg": "/Mi-proyecto/static/media/UNIVAC1.8cdaa69ebb79dde9af2a.jpg",
+    "static/media/IBM_7090.jpg": "/Mi-proyecto/static/media/IBM_7090.59456ac2fec9a137480b.jpg",
+    "static/media/T.jpeg": "/Mi-proyecto/static/media/T.8e7cf9c6dc2be48d3804.jpeg",
+    "static/media/y.jpg": "/Mi-proyecto/static/media/y.951663fa1cf143dbfdf1.jpg",
+    "index.html": "/Mi-proyecto/index.html",
+    "main.f96f07a4.css.map": "/Mi-proyecto/static/css/main.f96f07a4.css.map",
+    "main.c5fec7fe.js.map": "/Mi-proyecto/static/js/main.c5fec7fe.js.map",
+    "787.0a6b1a04.chunk.js.map": "/Mi-proyecto/static/js/787.0a6b1a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.c5fec7fe.js"
+  ]
+}
